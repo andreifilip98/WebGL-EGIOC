@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "609114472336-928g67b3mcafr3doue41m3s6h3d3f08i.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Yy061EAWBDDj_EMdHNA-btGYdS78e7o"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:609114472336:ios:b02a18346a4ceba33ffd15", 
+        "android_client_info": {
+          "package_name": "com.filipandrei.AlphaCube"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "alphacube-89154712.appspot.com", 
+    "project_id": "alphacube-89154712", 
+    "firebase_url": "https://alphacube-89154712.firebaseio.com", 
+    "project_number": "609114472336"
+  }
+}
